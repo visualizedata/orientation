@@ -1,4 +1,3 @@
-# M.S. Data Visualization
 # Welcome and Orientation Events
 ## Fall 2015
 
