@@ -13,16 +13,16 @@
 3. workflows, sharing, collaboration, process
 
 4. Node.js
-* Simple server
-* Parse
-* How to find Node packages (and how to vet them), documentation, community
-* NodeSchool
+  * Simple server
+  * Parse
+  * How to find Node packages (and how to vet them), documentation, community
+  * NodeSchool
 
 #### DAY TWO
 
 1. Node.js, continued
-* NodeSchool, Streams
-* Other NodeSchool modules
+  * NodeSchool, Streams
+  * Other NodeSchool modules
 
 2. Git/GitHub intensive
 
