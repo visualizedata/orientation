@@ -26,7 +26,7 @@
 
 #### 12:00pm - 5:00pm (building open until 11:00pm)
 
-1. Git/GitHub intensive introduction
+1. Git/[GitHub](https://education.github.com/pack) intensive introduction
 
 2. Node.js, continued
   * NodeSchool: [stream-adventure](http://nodeschool.io/#workshoppers) tutorial
