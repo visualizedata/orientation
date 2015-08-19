@@ -31,6 +31,7 @@
 ##### University Center, 63 Fifth Avenue, Room 417
 
 1. Git/GitHub intensive introduction
+  * [GitHub](https://education.github.com/pack) Student Developer Pack
 
 2. NodeSchool, continued
   * Other [NodeSchool tutorials](http://nodeschool.io/#workshoppers), time permitting
