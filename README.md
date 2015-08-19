@@ -18,11 +18,9 @@
 
 4. Working in Linux: an introduction to Linux and the command line
 
-5. Best practices: workflows, sharing, collaboration, process
-
-6. Introduction to Node.js
+5. Introduction to Node.js
  
-7. NodeSchool: [learnyounode](http://nodeschool.io/#workshoppers) tutorial
+6. NodeSchool: [learnyounode](http://nodeschool.io/#workshoppers) tutorial
 
 ### Sunday, August 23
 
@@ -33,10 +31,10 @@
 1. Git/GitHub intensive introduction
   * [GitHub](https://education.github.com/pack) Student Developer Pack
 
-2. NodeSchool, continued
-  * Other [NodeSchool tutorials](http://nodeschool.io/#workshoppers), time permitting
+2. Best practices: workflows, sharing, collaboration, process, dataviz.newschool.edu
 
-3. Preview: dataviz.newschool.edu
+3. NodeSchool, continued
+  * Other [NodeSchool tutorials](http://nodeschool.io/#workshoppers), time permitting
 
 ### Tuesday, August 25
 
