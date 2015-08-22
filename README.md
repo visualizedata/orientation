@@ -48,5 +48,7 @@ Theresa Lang Community and Student Center, 55 West 13th Street, 2nd floor
 #### 5:00pm - 7:00pm
 
 Parsons Graduate Student Welcome Reception
+
 Sheila C. Johnson Design Center, 66 Fifth Avenue, ground floor
+
 Executive Dean Joel Towers and other members of the Parsons community host a reception for all new Parsons graduate students. Join us for conversation, good food, and music provided by students from the School of Jazz.
