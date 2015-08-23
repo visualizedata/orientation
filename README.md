@@ -14,9 +14,10 @@
 
 2. Why Code?
 
-3. Setting up a working environment in Cloud 9
+3. Setting up a working environment in [Cloud 9](https://c9.io)
 
 4. Working in Linux: an introduction to Linux and the command line
+  * [Helpful Linux tutorial](http://cli.learncodethehardway.org/book/)
 
 5. Introduction to Node.js
  
@@ -30,6 +31,7 @@
 
 1. Git/GitHub intensive introduction
   * [GitHub](https://education.github.com/pack) Student Developer Pack
+  * [Helpful GitHub tutorial](https://try.github.io/levels/1/challenges/1)
 
 2. Best practices: workflows, sharing, collaboration, process, dataviz.newschool.edu
 
