@@ -12,7 +12,7 @@
   * Introductions
   * Orientation presentation
 
-2. Why Code?
+2. [Why Code](https://github.com/visualizedata/orientation/blob/master/WhyCode.pdf)?
 
 3. Setting up a working environment in [Cloud 9](https://c9.io)
 
