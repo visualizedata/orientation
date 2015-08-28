@@ -22,6 +22,7 @@
 5. Introduction to Node.js
  
 6. NodeSchool: [learnyounode](http://nodeschool.io/#workshoppers) tutorial
+  * [Chris' answers, with comments](https://github.com/clhenrick/learn_you_node)
 
 ### Sunday, August 23
 
