@@ -29,7 +29,7 @@ University Center, 63 Fifth Avenue, Room 601
 2:00pm - 2:30pm: Visit the Making Center  
 2:30 - close: Introduction to systems and workflows
 
-### Sunday, August 23
+### Sunday, August 27
 
 #### 11:00am - 5:00pm
 
