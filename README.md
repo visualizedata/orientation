@@ -6,12 +6,6 @@
 AMT Orientation  
 Lang Student Center, 55 West 13th Street, Room I-202
 
-### Wednesday, August 23
-#### 4:30pm - 6:00pm
-
-AMT New Administrative Hub Welcome  
-2 West 13th Street, 4th Floor
-
 ### Thursday, August 24
 #### 4:30pm - 6:00pm
 Grad reception  
