@@ -20,8 +20,8 @@ University Center, 63 Fifth Avenue, Room 601
 10:30am - 11:00am: Coffee and introductions  
 11:00am - 1:00pm: Welcome and program orientation; resources and facilities  
 1:00pm - 2:00pm: Lunch and tour of the new AMT Hub  
-2:00pm - 2:30pm: Visit the Making Center  
-2:30 - close: Introduction to systems and workflows
+2:00pm - 2:30pm: Visit the [Making Center](http://resources.parsons.edu/)  
+2:30 - close: Introduction to [systems](https://github.com/visualizedata/infrastructure) and [workflows](https://github.com/visualizedata/github-workflow)  
 
 ### Sunday, August 27
 
