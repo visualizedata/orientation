@@ -31,7 +31,7 @@ Data Visualization Program Orientation, Day 2
 University Center, 63 Fifth Avenue, Room 601
 
 11:00am - 11:30am: Check in  
-11:30am - 1:00pm: Project assignments [data](https://github.com/visualizedata/orientation/blob/master/events.json)  
+11:30am - 1:00pm: Project assignments [[data](https://github.com/visualizedata/orientation/blob/master/events.json)]  
 1:00pm - 2:00pm: Lunch  
 2:00pm - 4:00pm: Work on projects  
 4:00pm - 5:00pm: Conclusion and presentations  
