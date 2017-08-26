@@ -52,26 +52,26 @@ University Center, 63 Fifth Avenue, Room 601
 # Groups
 
 ## Group 1
+- Aucher  
 - Doug  
 - Julian  
 - Nic  
-- Aucher  
 
 ## Group 2
-- Ryan  
-- Clare  
 - Benzamin  
+- Clare  
 - Ellie  
 - Rik  
+- Ryan  
 
 ## Group 3
+- Alonso  
+- George  
 - Michael  
 - Rye  
-- George  
-- Alonso  
 
 ## Group 4
 - Colleen  
-- Yicen  
 - Flavio  
 - Steve  
+- Yicen  
