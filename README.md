@@ -48,3 +48,30 @@ University Center, 63 Fifth Avenue, Room 601
 #### *4:30pm - 6:00pm*
 *Grad reception*  
 *2 West 13th Street, Lobby on Ground Floor*
+
+# Groups
+
+## Group 1
+- Doug  
+- Julian  
+- Nic  
+- Aucher  
+
+## Group 2
+- Ryan  
+- Clare  
+- Benzamin  
+- Ellie  
+- Rik  
+
+## Group 3
+- Michael  
+- Rye  
+- George  
+- Alonso  
+
+## Group 4
+- Colleen  
+- Yicen  
+- Flavio  
+- Steve  
