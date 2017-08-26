@@ -14,6 +14,7 @@ University Center, 63 Fifth Avenue, Room 601
 - Ben Rubin, Director, [Center for Data Arts](http://www.data-arts.nyc/)  
 - Faculty: Aaron Hill, Daniel Sauter, Christian Swinehart  
 - Will Su, Teaching Assistant: [Major Studio](https://courses.newschool.edu/courses/PGDV5200) and [Data Structures](https://courses.newschool.edu/courses/PGDV5110)  
+
 12:00: Student introductions  
 1:00pm: Lunch, with guests: continuing students and alumni, University Center room 700  
 1:45: Walk through the new AMT Hub: 2 W 13th St., 4th Floor  
