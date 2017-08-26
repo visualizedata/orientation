@@ -69,6 +69,7 @@ University Center, 63 Fifth Avenue, Room 601
 - George  
 - Michael  
 - Rye  
+- Suzanna  
 
 ## Group 4
 - Colleen  
