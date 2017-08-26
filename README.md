@@ -72,7 +72,8 @@ University Center, 63 Fifth Avenue, Room 601
 - Suzanna  
 
 ## Group 4
-- Colleen  
+- Colleen 
+- Emily   
 - Flavio  
 - Steve  
 - Yicen  
