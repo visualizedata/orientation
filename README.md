@@ -9,10 +9,10 @@ University Center, 63 Fifth Avenue, Room 601
 10:30am: Coffee  
 11:00: Welcome and introductions:  
 - Anne Gaines, Dean, [School of Art, Media, and Technology](http://amt.parsons.edu/) (AMT)  
-- Jill Corson Lake, Director of Graduate Student Advising, [Student Success](https://www.newschool.edu/student-success/)  
-- Ben Rubin, Director, [Center for Data Arts](http://www.data-arts.nyc/)  
 - Faculty: Aaron Hill, Daniel Sauter, Christian Swinehart  
 - Will Su, Teaching Assistant: [Major Studio](https://courses.newschool.edu/courses/PGDV5200) and [Data Structures](https://courses.newschool.edu/courses/PGDV5110)  
+- Ben Rubin, Director, [Center for Data Arts](http://www.data-arts.nyc/)  
+- Jill Corson Lake, Director of Graduate Student Advising, [Student Success](https://www.newschool.edu/student-success/)  
 - Leslie Fierro, AMT Program Administrator  
 
 12:00: Student introductions  
