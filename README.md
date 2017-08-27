@@ -3,7 +3,7 @@
 ### Saturday, August 26
 
 #### 10:30am - 6:00pm
-Data Visualization Program Orientation, Day One  
+Data Visualization Program Orientation, Day 1  
 University Center, 63 Fifth Avenue, Room 601
 
 10:30am: Coffee  
@@ -27,7 +27,7 @@ University Center, 63 Fifth Avenue, Room 601
 
 #### 11:00am - 5:00pm
 
-Data Visualization Program Orientation, Day Two  
+Data Visualization Program Orientation, Day 2  
 University Center, 63 Fifth Avenue, Room 601
 
 11:00am: Check in; each group will report  
