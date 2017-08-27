@@ -21,7 +21,7 @@ University Center, 63 Fifth Avenue, Room 601
 2:00pm: Visit the [Making Center](http://resources.parsons.edu/), led by Daniel Sauter  
 2:30: Introduction to [systems](https://github.com/visualizedata/infrastructure) and account signups  
 3:00: Group assignments [[data](https://github.com/visualizedata/orientation/blob/master/events.json)]    
-3:30: Work in groups [[repo](https://github.com/visualizedata/events-exercise) | GitHub Pages site [https://visualizedata.github.io/events-exercise/](https://visualizedata.github.io/events-exercise/)]
+3:30: Work in groups [[repo](https://github.com/visualizedata/events-exercise) | GitHub Pages site: [https://visualizedata.github.io/events-exercise/](https://visualizedata.github.io/events-exercise/)]
 
 ### Sunday, August 27
 
