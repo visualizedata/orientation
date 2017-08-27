@@ -35,6 +35,7 @@ University Center, 63 Fifth Avenue, Room 601
 1:00pm: Lunch  
 2:00pm: Continued work on projects  
 4:00pm: Conclusion, presentations of work, and reflections  
+5:00pm: Ice cream
 
 ### *Past:*
 
