@@ -1,80 +1,27 @@
 # Welcome and Orientation Events
 
-### Saturday, August 26
+### *Thursday, August 23*
+
+*Grad reception*  
+
+### *Friday, August 24*
+#### *10:30am-12:30pm*
+
+Tishman Auditorium
+
+All Upper-Level Transfer students and Graduate students in the School of Art, Media, and Technology (AMT) will be introduced to the AMT School Dean, Anne Gaines, as well as their respective Program Directors. Following the welcome session, students will break out into program specific groups.
+
+#### *3:00pm-5:30pm*
+
+Data Visualization Program Orientation, Day One
+
+### Saturday, August 25
 
 #### 10:30am - 6:00pm
-Data Visualization Program Orientation, Day One  
-University Center, 63 Fifth Avenue, Room 601
+Data Visualization Program Orientation, Day Two  
 
-10:30am: Coffee  
-11:00: Welcome and introductions:  
-- Anne Gaines, Dean, [School of Art, Media, and Technology](http://amt.parsons.edu/) (AMT)  
-- Faculty: Aaron Hill, Daniel Sauter, Christian Swinehart  
-- Will Su, Teaching Assistant: [Major Studio](https://courses.newschool.edu/courses/PGDV5200) and [Data Structures](https://courses.newschool.edu/courses/PGDV5110)  
-- Ben Rubin, Director, [Center for Data Arts](http://www.data-arts.nyc/)  
-- Jill Corson Lake, Director of Graduate Student Advising, [Student Success](https://www.newschool.edu/student-success/)  
-- Leslie Fierro, AMT Program Administrator  
-
-12:00: Student introductions  
-1:00pm: Lunch, with guests: continuing students and alumni, University Center room 700  
-1:45: Walk through the new AMT Hub: 2 W 13th St., 4th Floor  
-2:00pm: Visit the [Making Center](http://resources.parsons.edu/), led by Daniel Sauter  
-2:30: Introduction to [systems](https://github.com/visualizedata/infrastructure) and account signups  
-3:00: Group assignments [[data](https://github.com/visualizedata/orientation/blob/master/events.json)]    
-3:30: Work in groups [[repo](https://github.com/visualizedata/events-exercise) | GitHub Pages site: [https://visualizedata.github.io/events-exercise/](https://visualizedata.github.io/events-exercise/)]
-
-### Sunday, August 27
+### Sunday, August 26
 
 #### 11:00am - 5:00pm
 
-Data Visualization Program Orientation, Day Two  
-University Center, 63 Fifth Avenue, Room 601
-
-11:00am: Check in; each group will report  
-11:30am: Introduction to [workflows](https://github.com/visualizedata/github-workflow)  
-1:00pm: Lunch  
-2:00pm: Continued work on projects  
-4:00pm: Conclusion, presentations of work, and reflections  
-5:00pm: Ice cream at Scoops and Cones on 10th Street
-
-### *Past:*
-
-### *Tuesday, August 22*
-#### *10:00am - 11:00am*
-
-*AMT Orientation*  
-*Lang Student Center, 55 West 13th Street, Room I-202*
-
-### *Thursday, August 24*
-#### *4:30pm - 6:00pm*
-*Grad reception*  
-*2 West 13th Street, Lobby on Ground Floor*
-
-# Groups
-
-## Group 1
-- Aucher  
-- Doug  
-- Julian  
-- Nic  
-
-## Group 2
-- Benzamin  
-- Clare  
-- Ellie  
-- Rik  
-- Ryan  
-
-## Group 3
-- Alonso  
-- George  
-- Michael  
-- Rye  
-- Suzanna  
-
-## Group 4
-- Colleen 
-- Emily   
-- Flavio  
-- Steve  
-- Yicen  
+Data Visualization Program Orientation, Day Three  
