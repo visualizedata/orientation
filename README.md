@@ -4,7 +4,7 @@
 
 ### Thursday, August 23
 
-#### 1:30pm-2:30pm
+#### 1:30pm-3:00pm
 
 AMT Orientation (an overview of the School of Art, Media, and Technology (AMT) for all incoming AMT students, which is several hundred new students).
 
