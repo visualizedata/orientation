@@ -26,9 +26,11 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
 
 ### Saturday, August 25
 
-#### 10:30am - 6:00pm
+#### 10:30am-6:00pm
 
-Data Visualization Program Orientation, Day Two. Lunch will be served at 1:00pm. 
+Data Visualization Program Orientation, Day Two. *A full lunch will be served at 1:00pm.* 
+
+**1:00pm-2:00pm** Lunch with alumni and returning students. 
 
 *Location: AMT Hub (2 W 13th Street, 4th Floor), Room 401.* 
 
