@@ -26,8 +26,9 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
 
 ### Agenda
 
+0. Spotify playlist: add your favorite NYC song  
 1. Introductions  
-2. People  
+2. Administrators and faculty  
   * [Anne Gaines](https://www.newschool.edu/parsons/faculty/anne-gaines/)  
   * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/)  
   * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/)  
@@ -61,7 +62,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
   * Student representative to the Deans and administration  
 6. Spring registration  
   * Advising  
-  * Planning  
+  * Planning (and planning ahead)  
   * Are you in the right Quant course?  
 6. GitHub  
   * [https://github.com/visualizedata/](https://github.com/visualizedata/)  
@@ -80,7 +81,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
   * [http://creative-publishing.org/](http://creative-publishing.org/)  
   * [http://art.yale.edu/](http://art.yale.edu/) which some people [didn't like](http://www.webpagesthatsuck.com/dailysucker/2010/05/25/yale-school-of-art-example-of-dickhead-web-design-for-tuesday-may-25-2010/) and [pilloried](https://webpagesthatsuck.smugmug.com/Web-Design/Videos/i-rc2bjDq/A)  
 3. To prepare for tomorrow:  
-  * If you have not yet created an account on GitHub, [create one](https://github.com/join). Be [careful in choosing a username](https://github.com/shithead), because your account will be a resource to share with potential employers. Everyone: email Aaron your GitHub username.  
+  * If you have not yet created an account on GitHub, [create one](https://github.com/join). Be [careful in choosing a username](https://github.com/shithead), because your account will be a resource to share with potential employers. **Everyone: email Aaron your GitHub username.**  
   * Create a [free AWS account](https://aws.amazon.com/free/) using your New School email address. This requires you to enter a credit card. There is an option to create an account without a credit card, but it dramatically reduces the benefits you will get from AWS Educate.  
   * Sign up for [AWS Educate](https://aws.amazon.com/education/awseducate/). Enter the institution name as "The New School", which will entitle you to $100 in free credits per year, in addition to the credits you receive when you sign up for a new AWS account.  
 
