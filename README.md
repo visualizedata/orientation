@@ -28,6 +28,10 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
 
 0. Spotify playlist: add your favorite NYC song  
 1. Introductions  
+  * Your full name  
+  * What motivated you to study DV at Parsons?  
+  * Design, quantitative, tech  
+  * Something interesting/unusual about you  
 2. Administrators and faculty  
   * [Anne Gaines](https://www.newschool.edu/parsons/faculty/anne-gaines/)  
   * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/)  
