@@ -44,7 +44,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
   * Library: Book a room  
   * [https://parsons.skedda.com/booking](https://parsons.skedda.com/booking) for booking [L404](https://github.com/visualizedata/404)  
   * [Making Center](https://www.newschool.edu/parsons/making-center/)  
-  * Making Center Store  
+  * [Making Center Store](https://github.com/visualizedata/orientation/blob/master/img/mc.JPG), L305  
   * [http://resources.parsons.edu/](http://resources.parsons.edu/)  
   * [Centers, Institutes, and Labs](https://www.newschool.edu/academics/research-centers-institutes-labs/) (including the Center for Data Arts)  
   * Teaching assistants and tutors: Major Studio 1 and Data Structures; help with coding, data wrangling, and computing     
@@ -58,6 +58,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
 5. MSDV culture and community  
   * AMT Hub  
   * [L404](https://github.com/visualizedata/404)  
+  * N710  
   * Slack  
   * When to have your laptop with you (always)  
   * [The Sheila C. Johnson Design Center](https://www.newschool.edu/parsons/sheila-c-johnson-design-center-about/)  
