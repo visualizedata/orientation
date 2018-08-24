@@ -28,30 +28,30 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
 
 1. Introductions  
 2. People  
-⋅⋅* [Anne Gaines](https://www.newschool.edu/parsons/faculty/anne-gaines/)  
-⋅⋅* [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/)  
-⋅⋅* [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/)  
-⋅⋅* [Christian Swinehart](https://www.newschool.edu/parsons/faculty/christian-swinehart/)  
-⋅⋅* [Maura Gingerich](https://www.newschool.edu/parsons/art-media-technology-school-amt/)  
-⋅⋅* [Quizayra Gonzalez](https://www.newschool.edu/academics/academic-advising/)  
+  * [Anne Gaines](https://www.newschool.edu/parsons/faculty/anne-gaines/)  
+  * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/)  
+  * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/)  
+  * [Christian Swinehart](https://www.newschool.edu/parsons/faculty/christian-swinehart/)  
+  * [Maura Gingerich](https://www.newschool.edu/parsons/art-media-technology-school-amt/)  
+  * [Quizayra Gonzalez](https://www.newschool.edu/academics/academic-advising/)  
 3. Resources  
-..* [https://library.newschool.edu/](https://library.newschool.edu/)  
-..* Library: Book a room  
-..* [https://parsons.skedda.com/booking](https://parsons.skedda.com/booking) for booking L404  
-..* [Making Center](https://www.newschool.edu/parsons/making-center/)  
-..* [http://resources.parsons.edu/](http://resources.parsons.edu/)  
+  * [https://library.newschool.edu/](https://library.newschool.edu/)  
+  * Library: Book a room  
+  * [https://parsons.skedda.com/booking](https://parsons.skedda.com/booking) for booking L404  
+  * [Making Center](https://www.newschool.edu/parsons/making-center/)  
+  * [http://resources.parsons.edu/](http://resources.parsons.edu/)  
 4. Identity  
-⋅⋅* [https://www.newschool.edu/parsons/ms-data-visualization/](https://www.newschool.edu/parsons/ms-data-visualization/)  
-..* [https://github.com/visualizedata/visualizedata.github.io](https://github.com/visualizedata/visualizedata.github.io)  
-..* [http://parsons.nyc/](http://parsons.nyc/)  
-..* [Parsons AMT *blog*](http://amt.parsons.edu/)  
+  * [https://www.newschool.edu/parsons/ms-data-visualization/](https://www.newschool.edu/parsons/ms-data-visualization/)  
+  * [https://github.com/visualizedata/visualizedata.github.io](https://github.com/visualizedata/visualizedata.github.io)  
+  * [http://parsons.nyc/](http://parsons.nyc/)  
+  * [Parsons AMT *blog*](http://amt.parsons.edu/)  
 5. GitHub  
-..* [https://github.com/visualizedata/](https://github.com/visualizedata/)  
-..* [MSDV GitHub workflow](https://github.com/visualizedata/github-workflow)  
+  * [https://github.com/visualizedata/](https://github.com/visualizedata/)  
+  * [MSDV GitHub workflow](https://github.com/visualizedata/github-workflow)  
 6. AWS  
-..* [Amazon Web Services (AWS)](https://aws.amazon.com/)  
-..* [AWS Educate](https://aws.amazon.com/education/awseducate/)  
-..* [AWS Cloud 9](https://aws.amazon.com/cloud9/)
+  * [Amazon Web Services (AWS)](https://aws.amazon.com/)  
+  * [AWS Educate](https://aws.amazon.com/education/awseducate/)  
+  * [AWS Cloud 9](https://aws.amazon.com/cloud9/)
 
 
 
