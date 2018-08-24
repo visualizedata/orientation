@@ -58,6 +58,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
 5. MSDV culture and community  
   * AMT Hub  
   * [L404](https://github.com/visualizedata/404)  
+  * MPS CD  
   * N710  
   * Slack  
   * When to have your laptop with you (always)  
