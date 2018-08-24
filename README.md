@@ -42,7 +42,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
 3. Resources  
   * [https://library.newschool.edu/](https://library.newschool.edu/): UC, List, NYU, others  
   * Library: Book a room  
-  * [https://parsons.skedda.com/booking](https://parsons.skedda.com/booking) for booking L404  
+  * [https://parsons.skedda.com/booking](https://parsons.skedda.com/booking) for booking [L404](https://github.com/visualizedata/404)  
   * [Making Center](https://www.newschool.edu/parsons/making-center/)  
   * Making Center Store  
   * [http://resources.parsons.edu/](http://resources.parsons.edu/)  
@@ -57,7 +57,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
   * [Parsons AMT *blog*](http://amt.parsons.edu/)  
 5. MSDV culture and community  
   * AMT Hub  
-  * L404  
+  * [L404](https://github.com/visualizedata/404)  
   * Slack  
   * [The Sheila C. Johnson Design Center](https://www.newschool.edu/parsons/sheila-c-johnson-design-center-about/)  
   * [University Center](https://www.newschool.edu/university-center/)  
