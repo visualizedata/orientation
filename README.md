@@ -59,6 +59,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
   * AMT Hub  
   * [L404](https://github.com/visualizedata/404)  
   * Slack  
+  * When to have your laptop with you (always)  
   * [The Sheila C. Johnson Design Center](https://www.newschool.edu/parsons/sheila-c-johnson-design-center-about/)  
   * [University Center](https://www.newschool.edu/university-center/)  
   * [Innovation Center](http://resources.parsons.edu/labs/innovation-center/) in the [Albert and Vera List Academic Center](https://www.newschool.edu/about/campus-information/campus-map/)   
