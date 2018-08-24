@@ -88,7 +88,8 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
   * If you have not yet created an account on GitHub, [create one](https://github.com/join). Be [careful in choosing a username](https://github.com/shithead), because your account will be a resource to share with potential employers. **Everyone: email Aaron your GitHub username.**  
   * Create a [free AWS account](https://aws.amazon.com/free/) using your New School email address. This requires you to enter a credit card. There is an option to create an account without a credit card, but it dramatically reduces the benefits you will get from AWS Educate.  
   * Sign up for [AWS Educate](https://aws.amazon.com/education/awseducate/). Enter the institution name as "The New School", which will entitle you to $100 in free credits per year, in addition to the credits you receive when you sign up for a new AWS account.  
-  * Start thinking about and/or sketching ideas for [https://parsons.nyc/](https://parsons.nyc/)
+  * Start thinking about and/or sketching ideas for [https://parsons.nyc/](https://parsons.nyc/)  
+  * Sustenance: we'll have coffee for you in the morning, and a full lunch on Saturday and snack/light lunch on Sunday.  
 
 ### Saturday, August 25
 
