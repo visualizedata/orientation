@@ -2,6 +2,13 @@
 
 #### Master of Science, Data Visualization, Parsons School of Design
 
+## Resources
+
+* [Google doc](https://docs.google.com/document/d/1aj1ZQVwiQaV3nTve8d5ecoWvPUHQ7dpLxByXNsiDfLw/edit?usp=sharing)  
+* [Google slides](https://docs.google.com/presentation/d/1u9NLJx6r0JcMOINXfVLH34hQ_N3Ujd48UxwWh3Z6ZYI/edit?usp=sharing)  
+
+## Schedule
+
 ### Thursday, August 23
 
 #### 1:30pm-3:00pm
@@ -44,6 +51,7 @@ Data Visualization Program Welcome/Orientation, Day One. Drinks (wine) at 5:00.
   * Library: Book a room  
   * [https://parsons.skedda.com/booking](https://parsons.skedda.com/booking) for booking [L404](https://github.com/visualizedata/404)  
   * [Making Center](https://www.newschool.edu/parsons/making-center/)  
+  * [Making Center training and workshops](http://resources.parsons.edu/training-workshops/)  
   * [Making Center Store](https://github.com/visualizedata/orientation/blob/master/img/mc.JPG), L305  
   * [http://resources.parsons.edu/](http://resources.parsons.edu/)  
   * [Centers, Institutes, and Labs](https://www.newschool.edu/academics/research-centers-institutes-labs/) (including the Center for Data Arts)  
