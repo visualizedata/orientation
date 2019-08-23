@@ -60,7 +60,7 @@ Data Visualization Program Welcome/Orientation
   * [http://resources.parsons.edu/](http://resources.parsons.edu/)
   * [Centers, Institutes, and Labs](https://www.newschool.edu/academics/research-centers-institutes-labs/) (including the Center for Data Arts)
   * Teaching assistants and tutors: Major Studio 1 and Data Structures; help with coding, data wrangling, and computing
-  * [Starfish](https://www.newschool.edu/starfish/) and attendance
+  * [Canvas](https://canvas.newschool.edu) (learning management), [Starfish](https://www.newschool.edu/starfish/) (attendance + student success)
   * [Learning Center](https://www.newschool.edu/university-learning-center/)
 
 #### 12:00-1:00pm 
@@ -106,11 +106,17 @@ Break
 
 #### 4:00pm-4:30pm 
 * [AWS Cloud 9](https://aws.amazon.com/cloud9/)
-
 * GitHub
   * [https://github.com/visualizedata/](https://github.com/visualizedata/)
   * [MSDV GitHub workflow](https://github.com/visualizedata/github-workflow)
+  * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 #### 4:30am-5:00pm
 * [LinkedIn Learning](https://login.libproxy.newschool.edu/login?url=https://www.linkedin.com/checkpoint/enterprise/login/75880858?application=learning)
 * Wrapping up
+
+## Acronym Glossary
+
+AMT | Art, Media, and Technology
+PGDV | Parsons Graduate Data Visualization
+MSDV | Master of Science in Data Visualization
