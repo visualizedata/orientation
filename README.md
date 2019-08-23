@@ -77,9 +77,11 @@ Data Visualization Program Welcome/Orientation
   * [The Sheila C. Johnson Design Center](https://www.newschool.edu/parsons/sheila-c-johnson-design-center-about/)
   * [University Center](https://www.newschool.edu/university-center/)
   * [Innovation Center](http://resources.parsons.edu/labs/innovation-center/) in the [Albert and Vera List Academic Center](https://www.newschool.edu/about/campus-information/campus-map/)
+  * [Decisions with Data 2019 Conference](https://www.eventbrite.com/e/federal-reserve-bank-of-new-york-decisions-with-data-conference-tickets-69110083119?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing), September 18
   * [Parsons Reunion](https://www.newschool.edu/alumni/events/), scheduled alongside Centennial, Oct. 1-6
+  * Hackathon with [USA for UNHCR](https://www.unrefugees.org), Hold: October 18th for all-day hackathon and September 24th from 6-7:30pm for pre-event
   * Student representative to the Deans and administration
-  * Hackathon with [USA for UNHCR](https://www.unrefugees.org), Hold: October 18 for hackathon (all-day) and pre-event on September 24th from 6-7:30pm)
+
 6. AWS
   * [Amazon Web Services (AWS)](https://aws.amazon.com/)
   * [AWS Educate](https://aws.amazon.com/education/awseducate/)
