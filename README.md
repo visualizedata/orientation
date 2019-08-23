@@ -117,6 +117,6 @@ Break
 
 ## Acronym Glossary
 
-AMT | Art, Media, and Technology
-PGDV | Parsons Graduate Data Visualization
-MSDV | Master of Science in Data Visualization
+- AMT | Art, Media, and Technology
+- PGDV | Parsons Graduate Data Visualization
+- MSDV | Master of Science in Data Visualization
