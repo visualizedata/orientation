@@ -39,15 +39,15 @@ Data Visualization Program Welcome/Orientation
 
 #### 10:00-11:00am
 0. Spotify playlist: add your favorite NYC song
-1. Introductions
+1. Administrators and faculty
+  * [Anne Gaines](https://www.newschool.edu/parsons/faculty/anne-gaines/)
+  * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/)
+  * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/)
+2. Introductions
   * Your full name *preferred gender pronoun: i.e.She, her, hers; he, him, his; They, them, theirs; Ze, hir; just the name*
   * What motivated you to study DV at Parsons?
-  * Design, quant(itative), tech
+  * Your background (Design, quant, tech, etc.)
   * Something interesting/unusual about you
-2. Administrators and faculty
-  * [Anne Gaines](https://www.newschool.edu/parsons/faculty/anne-gaines/)
-  * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/)
-  * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/)
 
 #### 11:00am-12:00pm 
 3. Resources
@@ -70,15 +70,16 @@ Data Visualization Program Welcome/Orientation
   * [http://parsons.nyc/](http://parsons.nyc/)
   * [Parsons AMT *blog*](http://amt.parsons.edu/)
 5. MSDV culture and community
-  * AMT Hub
+  * AMT Hub (Jasmine Graham, Program Administrator for Data Visualization; Anne Gaines, Dean)
   * [L404](https://github.com/visualizedata/404)
   * Slack
   * When to have your laptop with you (always)
   * [The Sheila C. Johnson Design Center](https://www.newschool.edu/parsons/sheila-c-johnson-design-center-about/)
   * [University Center](https://www.newschool.edu/university-center/)
   * [Innovation Center](http://resources.parsons.edu/labs/innovation-center/) in the [Albert and Vera List Academic Center](https://www.newschool.edu/about/campus-information/campus-map/)
-  * [Parsons Reunion](https://www.newschool.edu/alumni/events/), Saturday October 20
+  * [Parsons Reunion](https://www.newschool.edu/alumni/events/), scheduled alongside Centennial, Oct. 1-6
   * Student representative to the Deans and administration
+  * Hackathon with [USA for UNHCR](https://www.unrefugees.org), Hold: October 18 for hackathon (all-day) and pre-event on September 24th from 6-7:30pm)
 6. AWS
   * [Amazon Web Services (AWS)](https://aws.amazon.com/)
   * [AWS Educate](https://aws.amazon.com/education/awseducate/)
