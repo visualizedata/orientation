@@ -49,7 +49,7 @@ Data Visualization Program Welcome/Orientation
   * Your background (Design, quant, tech, etc.)
   * Something interesting/unusual about you
 
-#### 11:00am-12:00pm 
+#### 11:00am-12:00pm
 3. Resources
   * [Campus map and building code](https://www.newschool.edu/campus-community/campus-city-guide/map/)
   * [https://library.newschool.edu/](https://library.newschool.edu/): UC, List, NYU, others
@@ -63,7 +63,7 @@ Data Visualization Program Welcome/Orientation
   * [Canvas](https://canvas.newschool.edu) (learning management), [Starfish](https://www.newschool.edu/starfish/) (attendance + student success)
   * [Learning Center](https://www.newschool.edu/university-learning-center/)
 
-#### 12:00-1:00pm 
+#### 12:00-1:00pm
 4. Identity
   * [https://www.newschool.edu/parsons/ms-data-visualization/](https://www.newschool.edu/parsons/ms-data-visualization/)
   * [https://github.com/visualizedata/visualizedata.github.io](https://github.com/visualizedata/visualizedata.github.io)
@@ -86,7 +86,7 @@ Data Visualization Program Welcome/Orientation
   * [Amazon Web Services (AWS)](https://aws.amazon.com/)
   * [AWS Educate](https://aws.amazon.com/education/awseducate/)
 
-#### 1:00pm-2:30pm 
+#### 1:00pm-2:30pm
 Lunch with alumni and returning students, alumni presentations.
 * Sharing experiences
 * Career trajectories
@@ -104,7 +104,7 @@ Break
 * Create a [free AWS account](https://aws.amazon.com/free/) using your New School email address. This requires you to enter a credit card. There is an option to create an account without a credit card, but it dramatically reduces the benefits you will get from AWS Educate.
 * Sign up for [AWS Educate](https://aws.amazon.com/education/awseducate/). Enter the institution name as "The New School", which will entitle you to $100 in free credits per year, in addition to the credits you receive when you sign up for a new AWS account.
 
-#### 4:00pm-4:30pm 
+#### 4:00pm-4:30pm
 * [AWS Cloud 9](https://aws.amazon.com/cloud9/)
 * GitHub
   * [https://github.com/visualizedata/](https://github.com/visualizedata/)
@@ -117,6 +117,6 @@ Break
 
 ## Acronym Glossary
 
-- AMT | Art, Media, and Technology
-- PGDV | Parsons Graduate Data Visualization
-- MSDV | Master of Science in Data Visualization
+- AMT: Art, Media, and Technology
+- PGDV: Parsons Graduate Data Visualization
+- MSDV: Master of Science in Data Visualization
