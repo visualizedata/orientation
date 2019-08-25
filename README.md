@@ -67,8 +67,8 @@ Data Visualization Program Welcome/Orientation
 4. Identity
   * [https://www.newschool.edu/parsons/ms-data-visualization/](https://www.newschool.edu/parsons/ms-data-visualization/)
   * [https://github.com/visualizedata/visualizedata.github.io](https://github.com/visualizedata/visualizedata.github.io)
-  * [http://parsons.nyc/](http://parsons.nyc/)
   * [Parsons AMT *blog*](http://amt.parsons.edu/)
+  * [http://parsons.nyc/](http://parsons.nyc/) (managing team: Yiran, ...)
 5. MSDV culture and community
   * AMT Hub (Jasmine Graham, Program Administrator for Data Visualization; Anne Gaines, Dean)
   * [L404](https://github.com/visualizedata/404)
@@ -80,7 +80,7 @@ Data Visualization Program Welcome/Orientation
   * [Decisions with Data 2019 Conference](https://www.eventbrite.com/e/federal-reserve-bank-of-new-york-decisions-with-data-conference-tickets-69110083119?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing), September 18
   * [Parsons Reunion](https://www.newschool.edu/alumni/events/), scheduled alongside Centennial, Oct. 1-6
   * Hackathon with [USA for UNHCR](https://www.unrefugees.org), Hold: October 18th for all-day hackathon and September 24th from 6-7:30pm for pre-event
-  * Student representative to the Deans and administration
+  * Student representative to the Deans and administration (nominated: Amanda)
 
 6. AWS
   * [Amazon Web Services (AWS)](https://aws.amazon.com/)
@@ -118,5 +118,6 @@ Break
 ## Acronym Glossary
 
 - AMT: Art, Media, and Technology
+- AMT Hub: Administrative office for Art, Media, and Technology, open workspace, and L404 workspace, L building, 2 W. 13th Street, 4th floor
 - PGDV: Parsons Graduate Data Visualization
 - MSDV: Master of Science in Data Visualization
