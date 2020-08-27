@@ -6,11 +6,11 @@
 
 ### Art, Media, and Technology: School Orientation (Thursday, August 27)
 
-#### 10:00 - 11:00am (recorded)
+#### 10:00 - 11:00am
 
 AMT Orientation (an overview of the School of Art, Media, and Technology (AMT) for all incoming AMT students.
 
-#### 11:00 - 11:30am (active speaker recorded, questions via chat)
+#### 11:00 - 11:30am
 
 MS Data Visualization Breakout Session
 
@@ -20,9 +20,9 @@ MS Data Visualization Breakout Session
   * Sasha-Gay Scott <scotts@newschool.edu> and Dominique Norman <dominique@newschool.edu>, Academic Advisors
 
 2. Faculty
-  * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/)
-  * [Richard The](https://www.newschool.edu/parsons/faculty/richard-the/)
-  * [Ashley Treni](https://www.newschool.edu/parsons/faculty/ashley-treni/)
+  * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/) (Data Structures, Machine Learning)
+  * [Richard The](https://www.newschool.edu/parsons/faculty/richard-the/) (Major Studio 1)
+  * [Ashley Treni](https://www.newschool.edu/parsons/faculty/ashley-treni/) (Data Visualization and Information Aesthetics)
   
 3. Resources 
   * Thesis Archive https://parsons.nyc/thesis
