@@ -6,54 +6,54 @@
 
 ### Art, Media, and Technology: School Orientation (Thursday, August 27)
 
-#### 10:00 - 11:00am
+#### 10:00 - 11:00am (recorded)
 
 AMT Orientation (an overview of the School of Art, Media, and Technology (AMT) for all incoming AMT students.
 
-#### 11:30 - 12:30:
+#### 11:00 - 11:30am (active speaker recorded, questions via chat)
 
-MS Data Vizualization Breakout Session
+MS Data Visualization Breakout Session
 
-1. Administrators and faculty
-  * [Anne Gaines](https://www.newschool.edu/parsons/faculty/anne-gaines/)
+1. AMT Support
+  * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/) <sauter@newschool.edu>, Program Director
+  * Jasmine Graham <grahamj@newschool.edu>, Program Administrator
+  * Sasha-Gay Scott <scotts@newschool.edu> and Dominique Norman <dominique@newschool.edu>, Academic Advisors
+
+2. Faculty
   * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/)
-  * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/)
-  * PTF
-
-2. Introductions
-  * Your full name *preferred gender pronoun: i.e.She, her, hers; he, him, his; They, them, theirs; Ze, hir; just the name*
-  * What motivated you to study DV at Parsons?
-  * Your background (Design, quant, tech, etc.)
-  * Something interesting/unusual about you
-
-3. MSDV culture and community
-  * Jasmine Graham, Program Administrator for DV
-  * Sasha-Gay Scott, Student Success Advisor for DV
-  * Slack
-  * Student representative to the Deans and administration
-
-4. Cloud-based Services, AWS
-  * [Amazon Web Services (AWS)](https://aws.amazon.com/)
-  * [AWS Educate](https://aws.amazon.com/education/awseducate/)
-  * If you have not yet created an account on GitHub, [create one](https://github.com/join). Be [careful in choosing a username](https://github.com/shithead), because your account will be a resource to share with collaborators and potential employers. **Everyone: tell Daniel your GitHub username and check that it is listed [here](https://github.com/orgs/visualizedata/people).**
-  * Create a [free AWS account](https://aws.amazon.com/free/) using your New School email address. This requires you to enter a credit card. There is an option to create an account without a credit card, but it dramatically reduces the benefits you will get from AWS Educate.
+  * [Richard The](https://www.newschool.edu/parsons/faculty/richard-the/)
+  * [Ashley Treni](https://www.newschool.edu/parsons/faculty/ashley-treni/)
+  
+3. Resources 
+  * Thesis Archive https://parsons.nyc/thesis
+  * [Create GitHub account](https://github.com/join). Be [careful in choosing a username](https://github.com/shithead), because your account will be a resource to share with collaborators and potential employers. **Email Daniel your GitHub username and check that it is listed [here](https://github.com/orgs/visualizedata/people).**
+  * [Personal Cloud: free AWS account](https://aws.amazon.com/free/) using your New School email address. This requires you to enter a credit card. There is an option to create an account without a credit card, but it dramatically reduces the benefits you will get from AWS Educate.
   * Sign up for [AWS Educate](https://aws.amazon.com/education/awseducate/). Enter the institution name as "The New School", which will entitle you to $100 in free credits per year, in addition to the credits you receive when you sign up for a new AWS account.
-* [AWS Cloud 9](https://aws.amazon.com/cloud9/)
-* GitHub
-  * [MSDV GitHub workflow](https://github.com/visualizedata/github-workflow)
+  * [Code: AWS Cloud 9](https://aws.amazon.com/cloud9/)
+  * [Contribute: MSDV GitHub workflow](https://github.com/visualizedata/github-workflow)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-#### 1:00pm-2:00pm
-Meet alumni and returning students
-* Sharing experiences
-* Career trajectories
-* Q+A
-* Wrapping Up
+4. Q/A 
+
+#### 11:30am - 12:15pm
+
+5. MSDV culture and community
+  * Incoming and continuing students: In a few sentences, briefly introduct yourself (*i.e. name, preferred pronoun, what interests you most about DV in the pursuit of a degree?, etc.*)
+
+6. Alumni Network (facilitated by Gabi Steele, Marisa Asari, Mikaela Ergas Lenett; attendees: Simone Betito, Nour Zein, Saloni Shah, Dan Grunebaum, Robin Coenen)
+  * Roundtable discussion and Q&A session including alumni reflections and advice (e.g. learning tips & resources, making the most out of the one year and multi-year tracks, approaching coursework and finding your voice in DataViz more broadly, entering the DataViz workforce etc.)
+  * Discussion and overview of alumni network & EISJ efforts including gauging interest in mentorship/student support
+
+#### 12:15am - 12:30pm
+
+  * End of session
+  * Individual chat with Daniel as needed.
 
 ## Acronym Glossary
 
 - AMT: Art, Media, and Technology
+- Canvas: Learning Management System http://canvas.newschool.edu
+- EISJ: Equity, Inclusion, and Social Justice (i.e The New School's Office of EISJ https://www.newschool.edu/eisj/)
 - PGDV: Parsons Graduate Data Visualization
 - MSDV: Master of Science in Data Visualization
 - Starfish: Student Success Platform, Appointments, Attendance http://starfish.newschool.edu
-- Canvas: Learning Management System http://canvas.newschool.edu
