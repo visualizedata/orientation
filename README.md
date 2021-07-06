@@ -17,15 +17,13 @@ MS Data Visualization Breakout Session
 1. AMT Support
   * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/) <sauter@newschool.edu>, Program Director
   * Jasmine Graham <grahamj@newschool.edu>, Program Administrator
-  * Sasha-Gay Scott <scotts@newschool.edu> and Dominique Norman <dominique@newschool.edu>, Academic Advisors
+  * Sasha-Gay Scott <scotts@newschool.edu>, Academic Advisor
 
-2. Faculty
+2. Full-time Faculty
   * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/) (Data Structures, Machine Learning)
   * [Richard The](https://www.newschool.edu/parsons/faculty/richard-the/) (Major Studio 1)
-  * [Ashley Treni](https://www.newschool.edu/parsons/faculty/ashley-treni/) (Data Visualization and Information Aesthetics)
   
 3. Resources 
-  * [Summer Workshop](https://canvas.newschool.edu/courses/1528255)
   * Thesis Archive https://parsons.nyc/thesis
   * [Create GitHub account](https://github.com/join). Be careful in choosing a username, because your account will be a resource to share with collaborators and potential employers. **Email Daniel your GitHub username and check that it is listed [here](https://github.com/orgs/visualizedata/people).**
   * [Personal Cloud: free AWS account](https://aws.amazon.com/free/) using your New School email address. This requires you to enter a credit card. There is an option to create an account without a credit card, but it dramatically reduces the benefits you will get from AWS Educate.
@@ -33,23 +31,6 @@ MS Data Visualization Breakout Session
   * [Code: AWS Cloud 9](https://aws.amazon.com/cloud9/)
   * [Contribute: MSDV GitHub workflow](https://github.com/visualizedata/github-workflow)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-4. Q/A 
-
-#### 11:30am - 12:15pm
-
-5. MSDV culture and community
-  * MSDV Weekly Social (open channel and individual check-in with Daniel, Mondays, 6-6:30pm EST, Invite to be sent directly) 
-  * Incoming and continuing students: In a few sentences, briefly introduct yourself (*i.e. name, preferred pronoun, what interests you most about DV in the pursuit of a degree?, etc.*)
-
-6. Alumni Network (facilitated by Gabi Steele, Marisa Asari, Mikaela Ergas Lenett; attendees: Simone Betito, Nour Zein, Saloni Shah, Dan Grunebaum, Robin Coenen)
-  * Roundtable discussion and Q&A session including alumni reflections and advice (e.g. learning tips & resources, making the most out of the one year and multi-year tracks, approaching coursework and finding your voice in DataViz more broadly, entering the DataViz workforce etc.)
-  * Discussion and overview of alumni network & EISJ efforts including gauging interest in mentorship/student support
-
-#### 12:15am - 12:30pm
-
-  * End of session
-  * Individual chat with Daniel as needed.
 
 ## Acronym Glossary
 
