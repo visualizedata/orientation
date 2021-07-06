@@ -1,18 +1,4 @@
-# Welcome and Orientation Events
-
 #### Master of Science, Data Visualization, Parsons School of Design
-
-## Schedule
-
-### Art, Media, and Technology: School Orientation (Thursday, August 27)
-
-#### 10:00 - 11:00am
-
-AMT Orientation (an overview of the School of Art, Media, and Technology (AMT) for all incoming AMT students.
-
-#### 11:00 - 11:30am
-
-MS Data Visualization Breakout Session
 
 1. AMT Support
   * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/) <sauter@newschool.edu>, Program Director
