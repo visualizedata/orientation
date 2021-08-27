@@ -3,10 +3,11 @@
 1. AMT Dataviz Faculty and Staff
   * Welcome
   * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/) <sauter@newschool.edu>, Program Director
-  * Geo Borden <bordeng@newschool.edu>, Program Administrator
-  * Room L404
   * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/) (Data Structures, Machine Learning, Visualizing Uncertainty)
-  
+  * [Richard The](newschool.edu/parsons/faculty/Richard-The/) (Major Studio 1)
+  * Geo Borden <bordeng@newschool.edu>, Program Administrator
+  * AMT Hub (2 West 13th St. 4th Floor, Sheila C. Johnson Design Center). Room L404
+
 2. Resources 
   * Thesis Archive https://parsons.nyc/thesis
   * [Canvas](https://canvas.newschool.edu). Email and Notifications
