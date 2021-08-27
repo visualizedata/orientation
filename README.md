@@ -19,7 +19,7 @@
 3. Student Network
   * Introductions (all incoming students, alumni network representatives, 2021 graduates/mentors)
   * Alumni Mentorship program (sign up, making connections)
-  * Workshops (No Stupid Questions)
+  * [Alumni Workshops](https://docs.google.com/spreadsheets/d/1YLeg95GdYqxjDNv7-jG-t3gFMt4KeKxx1htwn3GWxbA/edit#gid=0) (No Stupid Questions)
   * Data Culture x Parsons: The Data Visualization & Racial Equity Fellowship
   * Hanging out. Larger alumni group joins, breakout rooms as needed
 
