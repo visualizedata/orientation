@@ -1,8 +1,10 @@
 #### Master of Science, Data Visualization, Parsons School of Design
 
 1. AMT Dataviz Faculty and Staff
+  * Welcome
   * [Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/) <sauter@newschool.edu>, Program Director
   * Geo Borden <bordeng@newschool.edu>, Program Administrator
+  * Room L404
   * [Aaron Hill](https://www.newschool.edu/parsons/faculty/aaron-hill/) (Data Structures, Machine Learning, Visualizing Uncertainty)
   
 3. Resources 
@@ -28,3 +30,4 @@
 - PGDV: Parsons Graduate Data Visualization
 - MSDV: Master of Science in Data Visualization
 - Starfish: Student Success Platform, Appointments, Attendance http://starfish.newschool.edu
+- Making Center: https://makingcenter.parsons.edu/
